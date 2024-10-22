@@ -459,3 +459,13 @@ footer {
     margin-right: 50px;
   }
 }
+
+@media only screen and (max-width: 463px) {
+  .main-nav ul {
+    gap: 10px;
+  }
+
+  .main-nav ul.right-menu {
+    margin-right: 40px;
+  }
+}
